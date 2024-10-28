@@ -1,6 +1,6 @@
 # EGSnrc course
 
-This repository provides the EGSnrc course content (lectures and labs)
+This repository provides the [EGSnrc](https://github.com/nrc-cnrc/EGSnrc) course content (lectures and labs)
 for the [Joint ICTP-IAEA Workshop on Monte Carlo Radiation Transport and Associated Data Needs for Medical Applications](https://indico.ictp.it/event/10516) held at the ICTP in Trieste, Italy, from October 28 to November 8, 2024.
 
 - 📆 [Schedule](./schedule/)
