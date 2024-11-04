@@ -205,22 +205,22 @@
 
 #### Morning
 
-|    Time | Topic          | Title                        | Instructor |
-| ------: | :------------- | :--------------------------- | :--------- |
-|  `9:00` | 💬 `Lecture 31` | FLURZnrc, SPRRZnrc and g     | Ernesto    |
-| `10:00` | 💬 `Lecture 32` | Medical physics applications | Patricia   |
-| `10:30` | ☕ `Break`      |                              |            |
-| `11:00` | 🖥 `Lab 17`     | Medical physics simulations  | Patricia   |
-| `12:30` | 🥪 `Lunch`      |                              |            |
+|    Time | Topic          | Title                                | Instructor |
+| ------: | :------------- | :----------------------------------- | :--------- |
+|  `9:00` | 💬 `Lecture 31` | FLURZnrc, SPRRZnrc and g             | Ernesto    |
+| `10:00` | 💬 `Lecture 32` | Medical physics applications         | Patricia   |
+| `10:30` | ☕ `Break`      |                                      |            |
+| `11:00` | 🖥 `Lab 17`     | Model dynamic geometries and sources | Patricia   |
+| `12:30` | 🥪 `Lunch`      |                                      |            |
 
 #### Afternoon
 
-|    Time | Topic          | Title                  | Instructor |
-| ------: | :------------- | :--------------------- | :--------- |
-| `14:30` | 💬 `Lecture 33` | Dosimetry applications | Hugo       |
-| `16:00` | ☕ `Break`      |                        |            |
-| `16:30` | 🖥 `Lab 18`     | Dosimetry simulations  | Hugo       |
-| `18:00` | 🛑              | End of day             |
+|    Time | Topic          | Title                                  | Instructor |
+| ------: | :------------- | :------------------------------------- | :--------- |
+| `14:30` | 💬 `Lecture 33` | Dosimetry applications                 | Hugo       |
+| `16:00` | ☕ `Break`      |                                        |            |
+| `16:30` | 🖥 `Lab 18`     | Study ionization chamber dose response | Hugo       |
+| `18:00` | 🛑              | End of day                             |
 
 ### 2.5. Friday November 8 — Automation and open lab time
 

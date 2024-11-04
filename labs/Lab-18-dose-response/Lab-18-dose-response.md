@@ -16,7 +16,7 @@
 <!-- # 16. -->
 <!-- # 17. -->
 
-# 18. Dosimetry applications <!-- omit in toc -->
+# 18. Study ionization chamber dose response <!-- omit in toc -->
 
 - [18.1. Look at the tracks created by a pencil beam](#181-look-at-the-tracks-created-by-a-pencil-beam)
 - [18.2. Look at the tracks created by a 10 MeV pencil beam](#182-look-at-the-tracks-created-by-a-10-mev-pencil-beam)

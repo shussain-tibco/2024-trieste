@@ -18,6 +18,6 @@
 | `Lab 14` | Variance reduction techniques with `egs_chamber`        |
 | `Lab 15` | Model CBCT scans of a human head using `egs_cbct`       |
 | `Lab 16` | Model an LDR brachytherapy treatment with `egs_brachy`  |
-| `Lab 17` | *Special topics lab*                                    |
-| `Lab 18` | *Special topics lab*                                    |
+| `Lab 17` | Model dynamic geometries and sources in egs++           |
+| `Lab 18` | Study ionization chamber dose response                  |
 | `Lab 19` | Automate EGSnrc simulations                             |
