@@ -56,12 +56,21 @@ Use the `envsubst` command to **replace** any occurrence of `${EGS_HOME}` inside
 the input file `lab-15.1-head.egsinp` with **your own path** to `$EGS_HOME`:
 
 ```bash
-envsubst < Lab-15.1-head.egsinp > Lab-15.2-head.egsinp
+envsubst < lab-15.1-head.egsinp > lab-15.2-head.egsinp
 ```
 This should produce the file `Lab-15.2-head.egsinp` containing the absolute path
 to the files. This file name is simply a suggestion.
 
 **_Feel free to use your own file naming convention!_**
+
+
+The image processing program `imageJ` will be used to visualize CBCT scans generated during this lab. If `imageJ` is not installed on your machine, type the following on the command line:
+
+```bash
+ictp-install imagej
+```
+and enter `Y` when asked whether you want to continue the installation.
+
 
 ## 15.2. CBCT scan using a monoenergetic photon beam
 
