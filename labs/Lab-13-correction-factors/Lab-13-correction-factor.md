@@ -21,12 +21,8 @@
 - [13.6. Turn on the production of particle tracks](#136-turn-on-the-production-of-particle-tracks)
 - [13.7. Define the run control parameters](#137-define-the-run-control-parameters)
 - [13.8. Run the simulation](#138-run-the-simulation)
-  - [Questions](#questions)
 - [13.9. Run EGSnrc in parallel](#139-run-egsnrc-in-parallel)
-  - [Questions](#questions-1)
 - [13.10. Calculate a chamber correction factor](#1310-calculate-a-chamber-correction-factor)
-  - [Questions](#questions-2)
-  - [Solutions laboratory 13](#solutions-laboratory-13)
 
 
 ## 13.1. Introduction
@@ -359,7 +355,7 @@ simulation over $\large n=12$ threads running concurrently, issue the following
 command—*note the `'` single quotes enclosing the original simulation command*:
 
 ```bash
-egs-parallel -n 12 'egs_chamber -i 3c.egsinp'
+egs-parallel -n 12 -c 'egs_chamber -i 3c.egsinp'
 ```
 
 You can use the `--verbose` option to get more information about the parallel
