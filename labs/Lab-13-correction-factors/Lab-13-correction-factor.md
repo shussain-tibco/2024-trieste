@@ -159,8 +159,7 @@ below, and the corresponding rectangular field is illustrated in the figure
 below (a).
 
 Use the spectrum defined in the `co60.spectrum` file. You must provide the
-*full path* of the file, revealed by the command: `find $HEH_HOUSE -name
- co60.spectrum`.
+*full path* of the file, but you can used `$HEN_HOUSE` in your input file.
 
 ```ruby
 :start source definition:
@@ -176,7 +175,7 @@ Use the spectrum defined in the `co60.spectrum` file. You must provide the
         :stop shape:
         :start spectrum:
             type = tabulated spectrum   # spectrum type
-            spectrum file = # write FULL path here...
+            spectrum file = $HEN_HOUSE/spectra/egsnrc
         :stop spectrum:
     :stop source:
 
@@ -195,7 +194,7 @@ the side wall, along the $\large +y$ direction.
 > **a)** The shape of the parallel beam, in the *xy* -plane by default, and with
 > particles emitted along $\large +z$. **b)** The rotation of the source to emit
 > particles along the $\large +y$ axis, and the translation to move the source
-> shape away from the origin.](figures/source){#fig:source width="\\textwidth"}
+> shape away from the origin.](figures/source)
 
 Hence you first need to *rotate* your source 1.5708 radian (90 degrees)
 around the *x*-axis so that photons are emitted along the $\large +y$
